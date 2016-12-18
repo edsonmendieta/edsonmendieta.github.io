@@ -1,2 +1,2 @@
 # edsonmendieta.github.io
-Edson's personal portfolio.
+Edson's portfolio.
